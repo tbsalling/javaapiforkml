@@ -12,10 +12,11 @@
 		<name>Micromata GmbH</name>
 		<url>http://micromata.de</url>
 	</organization>
-	<scm>
-		<connection>scm:svn:http://javaapiforkml.googlecode.com/svn/trunk/</connection>
-		<developerConnection>scm:svn:https://javaapiforkml.googlecode.com/svn/trunk/</developerConnection>
-	</scm>
+    <scm>
+        <url>https://github.com/tbsalling/javaapiforkml</url>
+        <connection>scm:git:git://github.com/tbsalling/javaapiforkml.git</connection>
+        <developerConnection>scm:git:git@github.com:tbsalling/javaapiforkml.git</developerConnection>
+    </scm>
 	<developers>
 		<developer>
 			<id>bachmann.florian</id>
